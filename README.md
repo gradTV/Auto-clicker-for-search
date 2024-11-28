@@ -1,4 +1,5 @@
 Circle Search Auto-Clicker
+
 A project written in C# designed for screens with a resolution of 1920x1080 (100% scaling).
 
 How It Works:
